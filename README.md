@@ -60,6 +60,8 @@ fire bursts, panic details, distances, the debug overlay and log. Every setting 
 
 Without Mod Settings, edit `UserData/MelonPreferences.cfg`, sections `[TacticalEnemyAI]` and `[TacticalEnemyAI_Advanced]`.
 
+What every setting does: [docs/SETTINGS.md](docs/SETTINGS.md).
+
 ## Compatibility
 
 - **Stealth AI Fix:** don't use both. They change the same chase and flanking code in opposite directions.
