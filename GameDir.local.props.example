@@ -1,0 +1,6 @@
+<Project>
+  <!-- Copy to GameDir.local.props (git-ignored) if the game is not in the default Steam folder. -->
+  <PropertyGroup>
+    <GameDir>D:\SteamLibrary\steamapps\common\Gunman Contracts - Stand Alone</GameDir>
+  </PropertyGroup>
+</Project>
